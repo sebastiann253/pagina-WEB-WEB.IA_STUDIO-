@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html { scroll-behavior: smooth; }
+body { background: #0A0A0A; color: #EDEBE6; font-family: Inter, system-ui, sans-serif; -webkit-font-smoothing: antialiased; }
+::selection { background: #3B6BFF; color: #fff; }
